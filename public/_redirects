@@ -1,0 +1,2 @@
+# Cloudflare Pages / Netlify SPA fallback — serves index.html for client-side routes (refresh-safe deep links)
+/*    /index.html   200
